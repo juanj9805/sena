@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "Y3HH8L8JNHr6ap9WYUWaiPLdCMVsuji5+IvxbdSL5v8=",
+  "Source": "profeTours_V1.Server",
+  "BasePath": "_content/profeTours_V1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\USUARIO\\source\\repos\\profeTours_V1\\profetours_v1.client\\profetours_v1.client.esproj",
+      "Version": 2,
+      "Source": "profetours_v1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

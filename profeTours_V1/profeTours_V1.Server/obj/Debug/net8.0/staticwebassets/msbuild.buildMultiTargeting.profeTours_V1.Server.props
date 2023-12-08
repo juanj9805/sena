@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\profeTours_V1.Server.props" />
+</Project>

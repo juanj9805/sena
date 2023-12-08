@@ -1,0 +1,6 @@
+@profeTours_V1.Server_HostAddress = http://localhost:5099
+
+GET {{profeTours_V1.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
